@@ -1,0 +1,60 @@
+/*----------------------------
+---      Media querys      ---
+------------------------------*/
+
+@media (min-width: 769px) and (max-width: 994px) {
+	.social-net {
+		display: inline-block;
+	}
+	.social-net li{
+		display: inline-block;
+	}
+	#carouselExampleControlsRespo2{  display: none;}
+}
+
+@media (min-width:501px) and (max-width: 768px) {
+	#carouselExampleControls{display: none;}
+    #carouselExampleControlsRespo2{  display: block;}
+    .social-net {
+		display: inline-block;
+	}
+	.social-net li{
+		display: inline-block;
+	}
+	 .some-space{ padding: 10px;}
+    .some-space-2{ padding: 10px;}
+    .center-text{
+        width: 80%;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    .social-nav{
+        display: none !important;
+    }
+    .logo-a{
+    	width:70%;
+    }
+    .img-logo{
+    	width: 100%;
+    	height:auto;
+    }
+      .some-space{ padding: 20px;}
+    .some-space-2{ padding: 20px;}
+    #carouselExampleControls{display: none;}
+    #carouselExampleControlsRespo{
+        display: block;
+    }
+    .space-text{padding: 20px;}
+    .row-new{
+        padding: 10px;
+    }
+    .row-space{
+        padding: 10px;
+    }
+     .center-text{
+        width: 90%;
+    }
+
+}

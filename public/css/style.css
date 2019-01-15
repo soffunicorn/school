@@ -1,0 +1,477 @@
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+
+/*nav style*/
+.orange-link {
+    color: #919191 !important;
+}
+
+.orange-link:hover {
+    color: #ff9a25 !important;
+}
+
+.navbar {
+    border: none !important;
+    box-shadow: 1px 1px 1px 1px #e3e3e3;
+    background-color: #fff;
+}
+
+.social-link {
+    color: #fff;
+}
+
+.social-link:hover {
+    color: #fff;
+}
+
+.navbar .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+.btn-apply-nav {
+    border: 1px solid #ff9a25;
+    background-color: #fff;
+    color: #ff9a25;
+    border-radius: 20px;
+}
+
+.navbar-collapse {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-apply-nav:hover {
+    border: 1px solid rgba(29, 123, 203, 0.91);
+    background-color: rgba(29, 123, 203, 0.91);
+    color: #fff;
+    border-radius: 20px;
+}
+
+.social-nav {
+    background-color: rgba(29, 123, 203, 0.91);
+    font-size: 13px;
+}
+
+.social-nav .navbar-nav .nav-link {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+}
+
+.welcome-message {
+    color: #fff;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+
+.btn-more {
+    background-color: #ffa000;
+    color: #fff;
+    border-radius: 50px;
+    padding: 15px 50px 15px 50px;
+}
+
+.btn-more:hover {
+    background-color: #ff6f00;
+    color: #fff;
+    border-radius: 50px;
+    padding: 15px 50px 15px 50px;
+}
+
+.title {
+    font-weight: 800;
+}
+
+.title-white{
+    font-weight: 800;
+    color:#fff;
+}
+
+.grey-text {
+    color: #525252;
+}
+
+.grey{
+    background-color: #eaeaea;
+}
+
+.container {
+    max-width: 100%;
+}
+
+/*content style*/
+.banner-home {
+    background: url(../img/banner.jpg) no-repeat center center / cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.banner-apply {
+    background: url(../img/slide-03.jpg) no-repeat center center / cover;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.banner-about {
+    background: url(../img/about.jpg) no-repeat center center / cover;
+    width: 100%;
+    height: auto;
+}
+
+.banner-contact{
+    background: url(../img/slider-01.jpg) no-repeat center center / cover;
+}
+
+.banner-overlay {
+    background-color: rgba(0, 0, 0, 0.47);
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.grabiente {
+    background-color: #0043e9;
+    background-image: linear-gradient(303deg, #0043e9 0%, #80D0C7 100%);
+}
+
+.ibero-logo {
+    height: auto;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.row-space{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.trip-logo {
+    height: auto;
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+
+.avatar{
+    height: auto;
+    width: 40%;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.galery-img {
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.apply {
+    background: url(../img/apply.jpg) no-repeat center center / cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.level-banner {
+    background: url(../img/levels.jpg) no-repeat center center / cover;
+}
+
+.backed{
+    background: url(../img/bg2.png) no-repeat fixed center center / cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card-img-overlay {
+    position: absolute;
+    top: 60%;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    background-color: rgba(0, 0, 0, 0.73);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.card-top{
+    margin-top:20px;
+}
+
+.text-element{
+    font-size: 12px;
+}
+
+.img-trending{
+    height: auto;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.news-title{
+    margin-top: 50px;
+    margin-bottom: 50px !important;
+}
+
+.row-new{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.card-img{
+    border:none !important;
+    border-radius: 10px !important;
+}
+
+.started {
+    color: #fff;
+}
+
+.space-text {
+    padding: 100px 200px 100px 200px;
+}
+
+.space-text-dos{
+    padding: 100px 50px 100px 50px;
+}
+
+.card-img-top {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.some-space {
+    padding: 20px 200px 20px 200px;
+}
+
+.img-complete{
+    height: auto;
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 0px;
+}
+
+.apply-text {
+    color: #fff;
+}
+
+.some-space-2 {
+    padding: 20px 100px 20px 100px;
+}
+
+.conten-bg {
+    background: url(../img/about-bg.jpg) no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #fff;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.reviews {
+    border-radius: 10px;
+    color: #555555;
+}
+
+.texto {
+    font-size: 12px;
+}
+
+.review-img {
+    height: 80px;
+    width: 80px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border: 3px solid #afafaf;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    width: 2%;
+}
+
+.card-white {
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.about-img {
+    width: 100%;
+    height: auto;
+}
+
+.about-back {
+    background-color: #e2e2e2;
+}
+
+.space-about-us-text {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.no-space-vertical {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.space-col {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.checki {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+hr {
+    width: 10%;
+    height: 2px;
+    border: none;
+    background-color: #ff9a25;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.hr-text {
+    width: 10%;
+    height: 2px;
+    border: none;
+    background-color: #ff9a25;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.blue-card {
+    background-color: #52ACFF;
+    background-image: linear-gradient(45deg, #52ACFF 25%, #01038a 100%);
+    color: #fff;
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px 1px #b5b5b5;
+    height:228px;
+}
+
+.blue-card:hover {
+    transition-timing-function: ease-in;
+    transition: 0.2s;
+    box-shadow: 1px 1px 10px 1px #2f2f2f;
+}
+
+.orange-card {
+    background-color: #FFE53B;
+    background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
+    color: #fff;
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px 1px #b5b5b5;
+    height: 228px;
+}
+
+.orange-card:hover {
+    transition-timing-function: ease-in;
+    transition: 0.2s;
+    box-shadow: 1px 1px 10px 1px #2f2f2f;
+}
+
+.green-card {
+    background-color: #0690c4;
+    background-image: linear-gradient(52deg, #0690c4 0%, #2AF598 100%);
+    color: #fff;
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px 1px #b5b5b5;
+    height:228px;
+}
+
+.green-card:hover {
+    transition-timing-function: ease-in;
+    transition: 0.2s;
+    box-shadow: 1px 1px 10px 1px #2f2f2f;
+}
+
+.cd-top .cd-top-show {
+    /* the button becomes visible */
+    visibility: visible;
+    opacity: 1;
+}
+
+.cd-top .cd-top-fade-out {
+    /* if the user keeps scrolling down, the button is out of focus and becomes less visible */
+    opacity: .5;
+}
+
+/* Footer style */
+.footer {
+    color: #fafafa;
+    background-color: rgba(0, 58, 108, 0.91);
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+/*Index*/
+.banner-text{
+    text-align: center;
+    color:#fff;
+}
+.mg-b{
+    margin-bottom:1em;
+}
+#carouselExampleControlsRespo{
+    display: none;
+}
+/*Responsive*/
+#carouselExampleControlsRespo2{  display: none;}
+.btn-primary{
+    width: 250px;
+    height: 40px;
+    margin:0 auto;
+    display: block;
+}
+/*Admin*/
+.center-text{
+    /* border: 1px solid #ff9a25;*/
+    padding:50px;
+    margin: 5em auto;
+    width: 700px;
+    height: auto;
+    border-radius: 20px;
+    background-color: rgb(209, 209, 209, 0.1);
+}
+.btn-login{
+    background-color: #ffa000;
+    width:150px;
+    height: 40px;
+    margin: 0 auto;
+    display: block;
+    color:#fff;
+    }  
+.btn-login:hover{
+     border: 1px solid #ff9a25;
+    background-color: #fff;
+    color: #ff9a25;
+}
+.forgot-pass{
+    color:#838383;
+    font-size:0.8rem;
+
+}
+.forgot-pass:hover{
+ text-decoration:underline dotted #838383;
+ color:#838383;
+}

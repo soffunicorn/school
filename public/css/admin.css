@@ -1,0 +1,122 @@
+/*Cambios de sofia*/
+.mb-admin{
+    padding: 7rem 1.5rem;
+}
+.btn-crud{
+  background-color: #555555;
+     margin:1rem;
+     color:#fff;
+}
+.btn-crud i{
+    color:#fff;
+}
+.add-crud{
+    margin-bottom: 1.5em;
+}
+.table-admin{
+    padding: 1em;
+}
+.hr-admin{
+    margin:1.5em auto;
+}
+.user-photo{
+    margin:1.5em auto;
+    width:80px;
+    height: auto;
+    display: block;
+    b
+}
+.table-adi{
+    text-align: center;
+
+}
+.table-adi th{
+    padding: 0 10px;
+}
+#preview {
+  border:1px solid #ddd;
+  padding:5px;
+  border-radius:20px;
+  background:#fff;
+  max-width:150px;
+
+#preview img {width:100%;display:block;}
+.profile{
+    margin-top: 7em;
+    padding:1em 3em;
+    width:80%;
+    background-color: #fff;
+    border-radius: 15px;
+}
+.btn-profile{
+  background-color: #555555;
+  color:#fff;
+  display: block;
+  margin:1.5em auto;   
+}
+.blog-admin{
+    background-color: #fff;
+  margin: 5em 3em;
+}
+.hiden{
+    display: none;
+}
+.setting-content{
+    background-color: #fff;
+    border-radius: 15px;
+    margin-top:6em;
+    margin-bottom: 4em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    width: 95%;
+    padding: 1.5em;
+}
+.user-photo-setting{
+    width:150px;
+    height:auto;
+    margin: 1em auto;
+    display: block;
+}
+.avatar-btn{
+ margin: 1em auto;
+display: block;
+background-color: #3868CC;
+color:#fff;
+}
+.button{
+    width:500px;
+    margin:0 auto;
+     margin:1.5em auto;
+}
+.btn-mail{
+    background-color: #555555;
+    color:#fff;
+}
+.btn-answer{
+    background-color: #3868CD;
+    color:#fff;
+    margin:0 0.5rem;
+}
+.color-grey{
+    border:1px solid #ccc;
+    background-color: #f2f2f2;
+    width: 100%;
+    padding:20px;
+}
+.color-white{
+     border:1px solid #ccc;
+    background-color: #fff;
+    width: 100%;
+    padding:20px;
+}
+.total-cursos{
+    padding:20px;
+    border:1px solid #ccc;
+}
+.second-table .tbody .line-tr{
+    background-color: #fff;
+}
+.second-table .tbody .line-tr p{
+    vertical-align: middle;
+    margin:1.5rem auto;
+}
